@@ -292,7 +292,15 @@
             "name": "Vega Protocol",
             "symbol": "VEGA",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x2136d8017ac5f4db99a7f9e23f15116b9c98be4e/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x7A7f0c755B2eCC4d4D195027deDcd736B452d35a",
+            "decimals": 9,
+            "name": "GrokMetis",
+            "symbol": "GROKMS",
+            "logoURI": "https://github.com/Netswap/tokens/assets/155177528/9aeb02f6-4cb6-4f5c-ad47-177c5d9ef5ae"
         }
     ],
-    "timestamp": "2023-12-25T17:00:00+00:00"
+    "timestamp": "2023-12-29T17:00:00+00:00"
 }
